@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\NEU25G_Databases\\L002_SQL_Injection_demo\\L002_SQL_Injection_demo.csproj": {}
+    "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\Code-Along\\L002_SQL_Injection_demo\\L002_SQL_Injection_demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\NEU25G_Databases\\L002_SQL_Injection_demo\\L002_SQL_Injection_demo.csproj": {
+    "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\Code-Along\\L002_SQL_Injection_demo\\L002_SQL_Injection_demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\NEU25G_Databases\\L002_SQL_Injection_demo\\L002_SQL_Injection_demo.csproj",
+        "projectUniqueName": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\Code-Along\\L002_SQL_Injection_demo\\L002_SQL_Injection_demo.csproj",
         "projectName": "L002_SQL_Injection_demo",
-        "projectPath": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\NEU25G_Databases\\L002_SQL_Injection_demo\\L002_SQL_Injection_demo.csproj",
+        "projectPath": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\Code-Along\\L002_SQL_Injection_demo\\L002_SQL_Injection_demo.csproj",
         "packagesPath": "C:\\Users\\medlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\NEU25G_Databases\\L002_SQL_Injection_demo\\obj\\",
+        "outputPath": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\Code-Along\\L002_SQL_Injection_demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

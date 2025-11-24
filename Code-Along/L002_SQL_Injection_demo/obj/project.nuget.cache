@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LfVngN/nfMM=",
+  "dgSpecHash": "ueDfaEdI+5U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\NEU25G_Databases\\L002_SQL_Injection_demo\\L002_SQL_Injection_demo.csproj",
+  "projectFilePath": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\Code-Along\\L002_SQL_Injection_demo\\L002_SQL_Injection_demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\medlu\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\medlu\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
