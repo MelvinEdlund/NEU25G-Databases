@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\Code-Along\\NEU25G_Databases\\",
+  "WorkspaceRootPath": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\NEU25G_Databases\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01CD55E3-44CA-5678-F3D0-C46252139EC1}|001_sqlClient\\001_sqlClient.csproj|c:\\users\\medlu\\source\\repos\\neu25g_databases\\code-along\\neu25g_databases\\001_sqlclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8FD0D4F-D782-40C2-BCE7-87C98B8FAD5A}|L002_SQL_Injection_demo\\L002_SQL_Injection_demo.csproj|c:\\users\\medlu\\source\\repos\\neu25g_databases\\neu25g_databases\\l002_sql_injection_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FD0D4F-D782-40C2-BCE7-87C98B8FAD5A}|L002_SQL_Injection_demo\\L002_SQL_Injection_demo.csproj|solutionrelative:l002_sql_injection_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CD55E3-44CA-5678-F3D0-C46252139EC1}|001_sqlClient\\001_sqlClient.csproj|c:\\users\\medlu\\source\\repos\\neu25g_databases\\neu25g_databases\\001_sqlclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01CD55E3-44CA-5678-F3D0-C46252139EC1}|001_sqlClient\\001_sqlClient.csproj|solutionrelative:001_sqlclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\Code-Along\\NEU25G_Databases\\001_sqlClient\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\NEU25G_Databases\\L002_SQL_Injection_demo\\Program.cs",
+              "RelativeDocumentMoniker": "L002_SQL_Injection_demo\\Program.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\NEU25G_Databases\\L002_SQL_Injection_demo\\Program.cs",
+              "RelativeToolTip": "L002_SQL_Injection_demo\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwE0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:33:25.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\NEU25G_Databases\\001_sqlClient\\Program.cs",
               "RelativeDocumentMoniker": "001_sqlClient\\Program.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\Code-Along\\NEU25G_Databases\\001_sqlClient\\Program.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\NEU25G_Databases\\001_sqlClient\\Program.cs",
               "RelativeToolTip": "001_sqlClient\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T09:23:13.947Z",
               "EditorCaption": ""

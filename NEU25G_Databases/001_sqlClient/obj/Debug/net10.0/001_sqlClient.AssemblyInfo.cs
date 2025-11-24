@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("001_sqlClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5292c9f439db7c99b511551142c016345a66797b")]
 [assembly: System.Reflection.AssemblyProductAttribute("001_sqlClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("001_sqlClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

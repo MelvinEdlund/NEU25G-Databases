@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="001_sqlClient/001_sqlClient.csproj" />
+  <Project Path="001_sqlClient/L001_sqlClient.csproj" />
+  <Project Path="L002_SQL_Injection_demo/L002_SQL_Injection_demo.csproj" Id="a8fd0d4f-d782-40c2-bce7-87c98b8fad5a" />
 </Solution>

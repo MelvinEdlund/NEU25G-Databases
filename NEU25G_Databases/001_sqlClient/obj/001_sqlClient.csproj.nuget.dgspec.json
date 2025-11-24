@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\Code-Along\\NEU25G_Databases\\001_sqlClient\\001_sqlClient.csproj": {}
+    "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\NEU25G_Databases\\001_sqlClient\\001_sqlClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\Code-Along\\NEU25G_Databases\\001_sqlClient\\001_sqlClient.csproj": {
+    "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\NEU25G_Databases\\001_sqlClient\\001_sqlClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\Code-Along\\NEU25G_Databases\\001_sqlClient\\001_sqlClient.csproj",
+        "projectUniqueName": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\NEU25G_Databases\\001_sqlClient\\001_sqlClient.csproj",
         "projectName": "001_sqlClient",
-        "projectPath": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\Code-Along\\NEU25G_Databases\\001_sqlClient\\001_sqlClient.csproj",
+        "projectPath": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\NEU25G_Databases\\001_sqlClient\\001_sqlClient.csproj",
         "packagesPath": "C:\\Users\\medlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\Code-Along\\NEU25G_Databases\\001_sqlClient\\obj\\",
+        "outputPath": "C:\\Users\\medlu\\source\\repos\\NEU25G_Databases\\NEU25G_Databases\\001_sqlClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
