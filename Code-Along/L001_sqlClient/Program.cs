@@ -1,7 +1,7 @@
 ﻿
 using Microsoft.Data.SqlClient;
 
-var connectionString = "Server=localhost,1433;Database=everyloop;User Id=sa;Password=StrongPassword123!;Encrypt=True;TrustServerCertificate=True;";
+var connectionString = "Data Source=localhost;Database=everyloop;Integrated Security=True;TrustServerCertificate=True;";
 
 var query = "select * from GameOfThrones where season = 1;";
 
@@ -14,7 +14,7 @@ using (var command = new SqlCommand(query, connection))
     {
         for (int i = 0; i < reader.FieldCount; i++)
         {
-            Console.Write($"{reader.GetName(i), -15}");
+            Console.Write($"{reader.GetName(i),-15}");
         }
 
         Console.WriteLine();
@@ -23,7 +23,7 @@ using (var command = new SqlCommand(query, connection))
         {
             for (int i = 0; i < reader.FieldCount; i++)
             {
-                Console.Write($"{GetFirstNCharacters(reader.GetValue(i), 13), -15}");
+                Console.Write($"{GetFirstNCharacters(reader.GetValue(i), 13),-15}");
             }
 
             Console.WriteLine();
@@ -34,6 +34,5 @@ using (var command = new SqlCommand(query, connection))
 static string GetFirstNCharacters(object o, int n)
 {
     string s = o.ToString();
-
-    return s.ToString().Substring(0, s.Length >  n ? n : s.Length);
+    return s.ToString().Substring(0, s.Length > n ? n : s.Length);
 }

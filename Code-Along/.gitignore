@@ -1,0 +1,98 @@
+# Visual Studio user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono auto generated files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+# Visual Studio Code workspace
+.vscode/
+
+# Rider
+.idea/
+
+# DotNet specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet packages
+*.nupkg
+# The packages folder can be ignored because you can restore it with NuGet
+**/packages/*
+# except build/, which should be checked in
+!**/packages/build/
+# Uncomment if necessary, but generally not recommended
+#!**/packages/repositories.config
+
+# Npm modules
+node_modules/
+
+# Backup & Logs
+*.log
+*.tlog
+*.old
+*.cache
+
+# Other
+*.vspscc
+*.vssscc
+*.pidb
+*.scc
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# DotCover
+*.dotCover
+
+# Azure
+*.publishsettings
+*.azurePubxml
+
+# IIS Express
+iisexpress/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# JetBrains Rider
+.idea/
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store

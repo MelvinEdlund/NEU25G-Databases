@@ -1,4 +1,11 @@
 <Solution>
-  <Project Path="001_sqlClient/L001_sqlClient.csproj" />
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="L001_SQLClient/L001_SQLClient.csproj" Id="002506e4-699a-4bfe-9776-07ff2c36029e" />
   <Project Path="L002_SQL_Injection_demo/L002_SQL_Injection_demo.csproj" Id="a8fd0d4f-d782-40c2-bce7-87c98b8fad5a" />
+  <Project Path="L003_DatabaseProjectDemo/L003_DatabaseProjectDemo.sqlproj" Id="67cc2ac4-d963-4774-a5d5-071f5b041808">
+    <Build />
+    <Deploy />
+  </Project>
 </Solution>
