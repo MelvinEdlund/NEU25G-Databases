@@ -8,4 +8,5 @@
     <Build />
     <Deploy />
   </Project>
+  <Project Path="L004_EFCore_Intro/L004_EFCore_Intro.csproj" Id="7beb669d-b83a-41c4-bc09-c7470fc9379c" />
 </Solution>

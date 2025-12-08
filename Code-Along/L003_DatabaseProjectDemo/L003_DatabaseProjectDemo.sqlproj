@@ -7,7 +7,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
     <ProjectGuid>{67cc2ac4-d963-4774-a5d5-071f5b041808}</ProjectGuid>
-    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql170DatabaseSchemaProvider</DSP>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql160DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
     </RootPath>
@@ -59,12 +59,17 @@
     <Folder Include="dbo" />
     <Folder Include="dbo\tables" />
     <Folder Include="PublishLocations" />
+    <Folder Include="dbo\Views" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\tables\Cities.sql" />
     <Build Include="dbo\tables\Countries.sql" />
+    <Build Include="dbo\Views\CityView.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="PublishLocations\L003_DatabaseProjectDemo.publish.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="L003_DatabaseProjectDemo.refactorlog" />
   </ItemGroup>
 </Project>

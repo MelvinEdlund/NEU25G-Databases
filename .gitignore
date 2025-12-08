@@ -1,0 +1,45 @@
+# ===== Visual Studio genererade filer =====
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build-folders
+bin/
+obj/
+
+# ===== C# =====
+*.exe
+*.dll
+*.pdb
+*.cache
+*.db
+*.log
+*.vspscc
+*.vssscc
+
+# ===== NuGet Packages =====
+*.nupkg
+packages/
+project.lock.json
+
+# ===== SQL Local DB =====
+*.mdf
+*.ldf
+*.dbmdl
+
+# ===== Temporary SQL / script work files =====
+*.tmp
+*.bak
+
+# ===== System files =====
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ===== OS generated =====
+ehthumbs.db
+
+# ===== JetBrains Rider (if used) =====
+.ide
