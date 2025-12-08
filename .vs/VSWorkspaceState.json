@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Code-Along",
-    "\\Code-Along\\L004_EFCore_Intro"
+    "\\Code-Along\\L004_EFCore_Intro",
+    "\\Code-Along\\L004_EFCore_Intro\\Model"
   ],
-  "SelectedNode": "\\Code-Along\\L004_EFCore_Intro\\Program.cs",
+  "SelectedNode": "\\Code-Along\\Code_Along_Databases.slnx",
   "PreviewInSolutionExplorer": false
 }

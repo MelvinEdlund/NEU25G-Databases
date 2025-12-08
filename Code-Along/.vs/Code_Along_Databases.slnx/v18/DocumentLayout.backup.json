@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{7BEB669D-B83A-41C4-BC09-C7470FC9379C}|L004_EFCore_Intro\\L004_EFCore_Intro.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l004_efcore_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BEB669D-B83A-41C4-BC09-C7470FC9379C}|L004_EFCore_Intro\\L004_EFCore_Intro.csproj|solutionrelative:l004_efcore_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\Migrations\\20251208135518_AddBlogColumnsAuthorAndCreatedAt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:L004_EFCore_Intro\\Migrations\\20251208135518_AddBlogColumnsAuthorAndCreatedAt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEB669D-B83A-41C4-BC09-C7470FC9379C}|L004_EFCore_Intro\\L004_EFCore_Intro.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l004_efcore_intro\\model\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEB669D-B83A-41C4-BC09-C7470FC9379C}|L004_EFCore_Intro\\L004_EFCore_Intro.csproj|solutionrelative:l004_efcore_intro\\model\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEB669D-B83A-41C4-BC09-C7470FC9379C}|L004_EFCore_Intro\\L004_EFCore_Intro.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l004_efcore_intro\\migrations\\20251208134822_renameratingcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEB669D-B83A-41C4-BC09-C7470FC9379C}|L004_EFCore_Intro\\L004_EFCore_Intro.csproj|solutionrelative:l004_efcore_intro\\migrations\\20251208134822_renameratingcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEB669D-B83A-41C4-BC09-C7470FC9379C}|L004_EFCore_Intro\\L004_EFCore_Intro.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l004_efcore_intro\\migrations\\20251208133719_initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEB669D-B83A-41C4-BC09-C7470FC9379C}|L004_EFCore_Intro\\L004_EFCore_Intro.csproj|solutionrelative:l004_efcore_intro\\migrations\\20251208133719_initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +42,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251208135518_AddBlogColumnsAuthorAndCreatedAt.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\Migrations\\20251208135518_AddBlogColumnsAuthorAndCreatedAt.cs",
+              "RelativeDocumentMoniker": "L004_EFCore_Intro\\Migrations\\20251208135518_AddBlogColumnsAuthorAndCreatedAt.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\Migrations\\20251208135518_AddBlogColumnsAuthorAndCreatedAt.cs",
+              "RelativeToolTip": "L004_EFCore_Intro\\Migrations\\20251208135518_AddBlogColumnsAuthorAndCreatedAt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:55:19.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251208134822_RenameRatingColumn.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\Migrations\\20251208134822_RenameRatingColumn.cs",
+              "RelativeDocumentMoniker": "L004_EFCore_Intro\\Migrations\\20251208134822_RenameRatingColumn.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\Migrations\\20251208134822_RenameRatingColumn.cs",
+              "RelativeToolTip": "L004_EFCore_Intro\\Migrations\\20251208134822_RenameRatingColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:48:22.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BloggingContext.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\Model\\BloggingContext.cs",
+              "RelativeDocumentMoniker": "L004_EFCore_Intro\\Model\\BloggingContext.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\Model\\BloggingContext.cs",
+              "RelativeToolTip": "L004_EFCore_Intro\\Model\\BloggingContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwC4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:33:45.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\Program.cs",
               "RelativeDocumentMoniker": "L004_EFCore_Intro\\Program.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\Program.cs",
-              "RelativeToolTip": "L004_EFCore_Intro\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\Program.cs*",
+              "RelativeToolTip": "L004_EFCore_Intro\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T08:54:11.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251208133719_Initialize.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\Migrations\\20251208133719_Initialize.cs",
+              "RelativeDocumentMoniker": "L004_EFCore_Intro\\Migrations\\20251208133719_Initialize.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\Migrations\\20251208133719_Initialize.cs",
+              "RelativeToolTip": "L004_EFCore_Intro\\Migrations\\20251208133719_Initialize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:38:17.033Z",
               "EditorCaption": ""
             }
           ]
