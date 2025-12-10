@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 
 namespace L005_ScaffoldedMusic.Model;
+
+[DebuggerDisplay("Artist: {Artist}, Tracks: {Tracks.Count}")]
 
 public partial class Album
 {

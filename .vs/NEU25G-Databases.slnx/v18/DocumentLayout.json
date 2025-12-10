@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\L004_EFCore_Intro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Code-Along\\L004_EFCore_Intro\\L004_EFCore_Intro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L006_ModelConfiguration\\Model\\ConfigDemoContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Code-Along\\L006_ModelConfiguration\\Model\\ConfigDemoContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Code-Along\\L004_EFCore_Intro\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\Model\\BloggingContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Code-Along\\L004_EFCore_Intro\\Model\\BloggingContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L006_ModelConfiguration\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Code-Along\\L006_ModelConfiguration\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,39 +31,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "L004_EFCore_Intro.csproj",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\L004_EFCore_Intro.csproj",
-              "RelativeDocumentMoniker": "Code-Along\\L004_EFCore_Intro\\L004_EFCore_Intro.csproj",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\L004_EFCore_Intro.csproj",
-              "RelativeToolTip": "Code-Along\\L004_EFCore_Intro\\L004_EFCore_Intro.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-08T12:10:57.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BloggingContext.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\Model\\BloggingContext.cs",
-              "RelativeDocumentMoniker": "Code-Along\\L004_EFCore_Intro\\Model\\BloggingContext.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\Model\\BloggingContext.cs",
-              "RelativeToolTip": "Code-Along\\L004_EFCore_Intro\\Model\\BloggingContext.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Title": "ConfigDemoContext.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L006_ModelConfiguration\\Model\\ConfigDemoContext.cs",
+              "RelativeDocumentMoniker": "Code-Along\\L006_ModelConfiguration\\Model\\ConfigDemoContext.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L006_ModelConfiguration\\Model\\ConfigDemoContext.cs",
+              "RelativeToolTip": "Code-Along\\L006_ModelConfiguration\\Model\\ConfigDemoContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T10:12:41.86Z"
+              "WhenOpened": "2025-12-10T12:06:31.867Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\Program.cs",
-              "RelativeDocumentMoniker": "Code-Along\\L004_EFCore_Intro\\Program.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L004_EFCore_Intro\\Program.cs",
-              "RelativeToolTip": "Code-Along\\L004_EFCore_Intro\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L006_ModelConfiguration\\Program.cs",
+              "RelativeDocumentMoniker": "Code-Along\\L006_ModelConfiguration\\Program.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L006_ModelConfiguration\\Program.cs",
+              "RelativeToolTip": "Code-Along\\L006_ModelConfiguration\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T10:12:24.179Z"
+              "WhenOpened": "2025-12-10T12:05:48.667Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E20E10D-0D7E-4CD1-89A0-75A24C0A4310}|L006_ModelConfiguration\\L006_ModelConfiguration.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l006_modelconfiguration\\model\\configdemocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E20E10D-0D7E-4CD1-89A0-75A24C0A4310}|L006_ModelConfiguration\\L006_ModelConfiguration.csproj|solutionrelative:l006_modelconfiguration\\model\\configdemocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{476E11E4-C9D5-4B3D-8AD2-5F2842620BBB}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l005_scaffoldedmusic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E11E4-C9D5-4B3D-8AD2-5F2842620BBB}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|solutionrelative:l005_scaffoldedmusic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E20E10D-0D7E-4CD1-89A0-75A24C0A4310}|L006_ModelConfiguration\\L006_ModelConfiguration.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l006_modelconfiguration\\model\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E20E10D-0D7E-4CD1-89A0-75A24C0A4310}|L006_ModelConfiguration\\L006_ModelConfiguration.csproj|solutionrelative:l006_modelconfiguration\\model\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{476E11E4-C9D5-4B3D-8AD2-5F2842620BBB}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l005_scaffoldedmusic\\model\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E11E4-C9D5-4B3D-8AD2-5F2842620BBB}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|solutionrelative:l005_scaffoldedmusic\\model\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476E11E4-C9D5-4B3D-8AD2-5F2842620BBB}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l005_scaffoldedmusic\\model\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E11E4-C9D5-4B3D-8AD2-5F2842620BBB}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|solutionrelative:l005_scaffoldedmusic\\model\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476E11E4-C9D5-4B3D-8AD2-5F2842620BBB}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l005_scaffoldedmusic\\model\\musiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E11E4-C9D5-4B3D-8AD2-5F2842620BBB}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|solutionrelative:l005_scaffoldedmusic\\model\\musiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConfigDemoContext.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L006_ModelConfiguration\\Model\\ConfigDemoContext.cs",
-              "RelativeDocumentMoniker": "L006_ModelConfiguration\\Model\\ConfigDemoContext.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L006_ModelConfiguration\\Model\\ConfigDemoContext.cs*",
-              "RelativeToolTip": "L006_ModelConfiguration\\Model\\ConfigDemoContext.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCQAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L005_ScaffoldedMusic\\Model\\Album.cs",
+              "RelativeDocumentMoniker": "L005_ScaffoldedMusic\\Model\\Album.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L005_ScaffoldedMusic\\Model\\Album.cs",
+              "RelativeToolTip": "L005_ScaffoldedMusic\\Model\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T09:00:04.187Z",
+              "WhenOpened": "2025-12-10T13:46:37.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L006_ModelConfiguration\\Model\\Program.cs",
-              "RelativeDocumentMoniker": "L006_ModelConfiguration\\Model\\Program.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L006_ModelConfiguration\\Model\\Program.cs",
-              "RelativeToolTip": "L006_ModelConfiguration\\Model\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L005_ScaffoldedMusic\\Model\\Artist.cs",
+              "RelativeDocumentMoniker": "L005_ScaffoldedMusic\\Model\\Artist.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L005_ScaffoldedMusic\\Model\\Artist.cs",
+              "RelativeToolTip": "L005_ScaffoldedMusic\\Model\\Artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T08:57:17.988Z",
+              "WhenOpened": "2025-12-10T13:22:11.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MusicContext.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L005_ScaffoldedMusic\\Model\\MusicContext.cs",
+              "RelativeDocumentMoniker": "L005_ScaffoldedMusic\\Model\\MusicContext.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L005_ScaffoldedMusic\\Model\\MusicContext.cs",
+              "RelativeToolTip": "L005_ScaffoldedMusic\\Model\\MusicContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:55:04.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L005_ScaffoldedMusic\\Program.cs",
+              "RelativeDocumentMoniker": "L005_ScaffoldedMusic\\Program.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L005_ScaffoldedMusic\\Program.cs",
+              "RelativeToolTip": "L005_ScaffoldedMusic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:53:36.97Z",
               "EditorCaption": ""
             }
           ]

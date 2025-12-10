@@ -30,8 +30,13 @@ public partial class MusicContext : DbContext
     public virtual DbSet<Track> Tracks { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("DataSource=localhost,1433; Database=everyloop; TrustServerCertificate = true; IntegratedSecurity = false; UserID =sa; Password =Password123!");
-
+        => optionsBuilder.UseSqlServer(
+            "Data Source=localhost,1433;" +
+            "Initial Catalog=everyloop;" +
+            "TrustServerCertificate=True;" +
+            "Integrated Security=False;" +
+            "User ID=sa;" +
+            "Password=Password123!");
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.UseCollation("Finnish_Swedish_CI_AS");

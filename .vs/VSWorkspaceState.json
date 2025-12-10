@@ -3,7 +3,10 @@
     "",
     "\\Code-Along",
     "\\Code-Along\\L004_EFCore_Intro",
-    "\\Code-Along\\L004_EFCore_Intro\\Model"
+    "\\Code-Along\\L004_EFCore_Intro\\Model",
+    "\\Code-Along\\L006_ModelConfiguration",
+    "\\Code-Along\\L006_ModelConfiguration\\Model"
   ],
+  "SelectedNode": "\\Code-Along\\Code_Along_Databases.slnx",
   "PreviewInSolutionExplorer": false
 }

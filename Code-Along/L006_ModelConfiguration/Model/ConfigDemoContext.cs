@@ -16,7 +16,7 @@ internal class ConfigDemoContext : DbContext
         var connectionString = new SqlConnectionStringBuilder()
         {
             DataSource = "localhost,1433",
-            InitialCatalog = "ConfigDemoDB",
+            InitialCatalog = "ConfigDemoDb",
             TrustServerCertificate = true,
             IntegratedSecurity = false,
             UserID = "sa",
@@ -55,3 +55,4 @@ public class Student
     [NotMapped]
     public DateOnly DateOfBirth { get; set; }
 }
+
