@@ -3,13 +3,13 @@
 using L004_EFCore_Intro.Model;
 using Microsoft.EntityFrameworkCore;
 
-//EnsureDataBaseIsDeleted();
-//EnsureDataBaseIsCreated();
+EnsureDataBaseIsDeleted();
+EnsureDataBaseIsCreated();
 
-//Blog myBlog = GetBlog(".com");
+Blog myBlog = GetBlog(".com");
 
-//CreateBlog("myblog.com/coding");
-//CreateBlog("myblog.com/SQL");
+CreateBlog("myblog.com/coding");
+CreateBlog("myblog.com/SQL");
 
 
 List<Blog> blogs = GetBlogs(searchString: ".com", printSQL : true);
