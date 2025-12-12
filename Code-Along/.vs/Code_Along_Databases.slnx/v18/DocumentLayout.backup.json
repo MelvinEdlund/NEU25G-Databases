@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{476E11E4-C9D5-4B3D-8AD2-5F2842620BBB}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l005_scaffoldedmusic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{476E11E4-C9D5-4B3D-8AD2-5F2842620BBB}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|solutionrelative:l005_scaffoldedmusic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l008_datagrid_and_treeview\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|solutionrelative:l008_datagrid_and_treeview\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{476E11E4-C9D5-4B3D-8AD2-5F2842620BBB}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l005_scaffoldedmusic\\model\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{476E11E4-C9D5-4B3D-8AD2-5F2842620BBB}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|solutionrelative:l005_scaffoldedmusic\\model\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l008_datagrid_and_treeview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|solutionrelative:l008_datagrid_and_treeview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{476E11E4-C9D5-4B3D-8AD2-5F2842620BBB}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l005_scaffoldedmusic\\model\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{476E11E4-C9D5-4B3D-8AD2-5F2842620BBB}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|solutionrelative:l005_scaffoldedmusic\\model\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l008_datagrid_and_treeview\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|solutionrelative:l008_datagrid_and_treeview\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{476E11E4-C9D5-4B3D-8AD2-5F2842620BBB}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l005_scaffoldedmusic\\model\\musiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{476E11E4-C9D5-4B3D-8AD2-5F2842620BBB}|L005_ScaffoldedMusic\\L005_ScaffoldedMusic.csproj|solutionrelative:l005_scaffoldedmusic\\model\\musiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l008_datagrid_and_treeview\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|solutionrelative:l008_datagrid_and_treeview\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l008_datagrid_and_treeview\\models\\musiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|solutionrelative:l008_datagrid_and_treeview\\models\\musiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l008_datagrid_and_treeview\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|solutionrelative:l008_datagrid_and_treeview\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,54 +46,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Album.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L005_ScaffoldedMusic\\Model\\Album.cs",
-              "RelativeDocumentMoniker": "L005_ScaffoldedMusic\\Model\\Album.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L005_ScaffoldedMusic\\Model\\Album.cs",
-              "RelativeToolTip": "L005_ScaffoldedMusic\\Model\\Album.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "L008_DataGrid_and_TreeView\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\Models\\Genre.cs",
+              "RelativeToolTip": "L008_DataGrid_and_TreeView\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T13:46:37.074Z",
+              "WhenOpened": "2025-12-12T10:50:17.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "L008_DataGrid_and_TreeView\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\Models\\Artist.cs",
+              "RelativeToolTip": "L008_DataGrid_and_TreeView\\Models\\Artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T10:45:19.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Artist.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L005_ScaffoldedMusic\\Model\\Artist.cs",
-              "RelativeDocumentMoniker": "L005_ScaffoldedMusic\\Model\\Artist.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L005_ScaffoldedMusic\\Model\\Artist.cs",
-              "RelativeToolTip": "L005_ScaffoldedMusic\\Model\\Artist.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T13:22:11.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MusicContext.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L005_ScaffoldedMusic\\Model\\MusicContext.cs",
-              "RelativeDocumentMoniker": "L005_ScaffoldedMusic\\Model\\MusicContext.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L005_ScaffoldedMusic\\Model\\MusicContext.cs",
-              "RelativeToolTip": "L005_ScaffoldedMusic\\Model\\MusicContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T12:55:04.377Z",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "L008_DataGrid_and_TreeView\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\MainWindow.xaml*",
+              "RelativeToolTip": "L008_DataGrid_and_TreeView\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-12T08:31:16.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L005_ScaffoldedMusic\\Program.cs",
-              "RelativeDocumentMoniker": "L005_ScaffoldedMusic\\Program.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L005_ScaffoldedMusic\\Program.cs",
-              "RelativeToolTip": "L005_ScaffoldedMusic\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "L008_DataGrid_and_TreeView\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "L008_DataGrid_and_TreeView\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T12:53:36.97Z",
+              "WhenOpened": "2025-12-12T08:31:16.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\App.xaml",
+              "RelativeDocumentMoniker": "L008_DataGrid_and_TreeView\\App.xaml",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\App.xaml",
+              "RelativeToolTip": "L008_DataGrid_and_TreeView\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-12T09:27:47.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicContext.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\Models\\MusicContext.cs",
+              "RelativeDocumentMoniker": "L008_DataGrid_and_TreeView\\Models\\MusicContext.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\Models\\MusicContext.cs",
+              "RelativeToolTip": "L008_DataGrid_and_TreeView\\Models\\MusicContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T09:31:55.867Z",
               "EditorCaption": ""
             }
           ]
