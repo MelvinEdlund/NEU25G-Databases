@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l008_datagrid_and_treeview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|solutionrelative:l008_datagrid_and_treeview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l009_logging_and_tracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|solutionrelative:l009_logging_and_tracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l008_datagrid_and_treeview\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|solutionrelative:l008_datagrid_and_treeview\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l009_logging_and_tracking\\model\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|solutionrelative:l009_logging_and_tracking\\model\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l008_datagrid_and_treeview\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|solutionrelative:l008_datagrid_and_treeview\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l009_logging_and_tracking\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|solutionrelative:l009_logging_and_tracking\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l008_datagrid_and_treeview\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|solutionrelative:l008_datagrid_and_treeview\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l008_datagrid_and_treeview\\models\\musiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|solutionrelative:l008_datagrid_and_treeview\\models\\musiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l008_datagrid_and_treeview\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BB9E2AB3-08D9-49C8-968F-2DF5C6A043B6}|L008_DataGrid_and_TreeView\\L008_DataGrid_and_TreeView.csproj|solutionrelative:l008_datagrid_and_treeview\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l009_logging_and_tracking\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|solutionrelative:l009_logging_and_tracking\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,79 +37,59 @@
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\Models\\Genre.cs",
-              "RelativeDocumentMoniker": "L008_DataGrid_and_TreeView\\Models\\Genre.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\Models\\Genre.cs",
-              "RelativeToolTip": "L008_DataGrid_and_TreeView\\Models\\Genre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T10:50:17.413Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Artist.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\Models\\Artist.cs",
-              "RelativeDocumentMoniker": "L008_DataGrid_and_TreeView\\Models\\Artist.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\Models\\Artist.cs",
-              "RelativeToolTip": "L008_DataGrid_and_TreeView\\Models\\Artist.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Model\\Country.cs",
+              "RelativeDocumentMoniker": "L009_Logging_and_Tracking\\Model\\Country.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Model\\Country.cs",
+              "RelativeToolTip": "L009_Logging_and_Tracking\\Model\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T10:45:19.312Z",
+              "WhenOpened": "2025-12-15T09:39:54.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "L008_DataGrid_and_TreeView\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\MainWindow.xaml",
-              "RelativeToolTip": "L008_DataGrid_and_TreeView\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-12T08:31:16.552Z",
+              "DocumentIndex": 3,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Model\\City.cs",
+              "RelativeDocumentMoniker": "L009_Logging_and_Tracking\\Model\\City.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Model\\City.cs",
+              "RelativeToolTip": "L009_Logging_and_Tracking\\Model\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:39:52.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "L008_DataGrid_and_TreeView\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\MainWindow.xaml.cs",
-              "RelativeToolTip": "L008_DataGrid_and_TreeView\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCkAAAAuAAAAAAAAAA==",
+              "Title": "DemoContext.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Model\\DemoContext.cs",
+              "RelativeDocumentMoniker": "L009_Logging_and_Tracking\\Model\\DemoContext.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Model\\DemoContext.cs",
+              "RelativeToolTip": "L009_Logging_and_Tracking\\Model\\DemoContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T08:31:16.073Z",
+              "WhenOpened": "2025-12-15T09:32:41.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\App.xaml",
-              "RelativeDocumentMoniker": "L008_DataGrid_and_TreeView\\App.xaml",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\App.xaml",
-              "RelativeToolTip": "L008_DataGrid_and_TreeView\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-12T09:27:47.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MusicContext.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\Models\\MusicContext.cs",
-              "RelativeDocumentMoniker": "L008_DataGrid_and_TreeView\\Models\\MusicContext.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L008_DataGrid_and_TreeView\\Models\\MusicContext.cs",
-              "RelativeToolTip": "L008_DataGrid_and_TreeView\\Models\\MusicContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Program.cs",
+              "RelativeDocumentMoniker": "L009_Logging_and_Tracking\\Program.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Program.cs",
+              "RelativeToolTip": "L009_Logging_and_Tracking\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T09:31:55.867Z",
+              "WhenOpened": "2025-12-15T09:30:26.312Z",
               "EditorCaption": ""
             }
           ]

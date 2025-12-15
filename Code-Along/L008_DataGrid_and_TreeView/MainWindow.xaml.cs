@@ -28,7 +28,7 @@ public partial class MainWindow : Window
 
     private void MainWindow_Loaded(object sender, RoutedEventArgs e)
     {
-        LoadTracks();
+        //LoadTracks();
         LoadArtists();
     }
 
@@ -39,20 +39,20 @@ public partial class MainWindow : Window
         var artists = db.Artists
             .Where(artist => artist.Albums.Count > 2)
             .Include(artist => artist.Albums)
-            .ThenInclude(album => album.Tracks)
+            //.ThenInclude(album => album.Tracks)
             .ToList();
 
         myTreeView.ItemsSource = new ObservableCollection<Artist>(artists);
     }
 
-    private void LoadTracks()
+    private void LoadTracks(Album album)
     {
         using var db = new MusicContext();
 
         var tracks = db.Tracks
-            .Take(10)
             .Include(t => t.Album)
-            .Select(t => new { Name = t.Name, AlbumName = t.Album.Title, Length = TimeSpan.FromMilliseconds(t.Milliseconds).ToString(@"mm\:ss") })
+            .Where(t => t.Album.AlbumId == album.AlbumId)
+            .Select(t => new { Name = t.Name, Composer = t.Composer, Length = TimeSpan.FromMilliseconds(t.Milliseconds).ToString(@"mm\:ss") })
             .ToList();
 
         var collection = new ObservableCollection<object>(tracks);
@@ -60,5 +60,13 @@ public partial class MainWindow : Window
         myDataGrid.ItemsSource = collection;
 
         //collection.Add(new Track() { Name = "Melvins track" });
+    }
+
+    private void myTreeView_SelectedItemChanged(object sender, RoutedPropertyChangedEventArgs<object> e)
+    {
+        if (e.NewValue is Album album)
+        {
+            LoadTracks(album);
+        }
     }
 }

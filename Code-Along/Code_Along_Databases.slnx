@@ -13,4 +13,6 @@
   <Project Path="L006_ModelConfiguration/L006_ModelConfiguration.csproj" Id="5e20e10d-0d7e-4cd1-89a0-75a24c0a4310" />
   <Project Path="L007_Relationships/L007_Relationships.csproj" Id="aafdfb0d-d6fc-4789-afce-7dbfd6b2a5a9" />
   <Project Path="L008_DataGrid_and_TreeView/L008_DataGrid_and_TreeView.csproj" Id="bb9e2ab3-08d9-49c8-968f-2df5c6a043b6" />
+  <Project Path="L009_Logging_and_Tracking/L009_Logging_and_Tracking.csproj" Id="5641c78b-49a8-47dd-931c-78777175798a" />
+  <Project Path="L010_Bitwise_AND_OR_Operations_with_Enum/L010_Bitwise_AND_OR_Operations_with_Enum.csproj" Id="bfac8033-4a47-443c-9cb4-04ec31edaf98" />
 </Solution>
