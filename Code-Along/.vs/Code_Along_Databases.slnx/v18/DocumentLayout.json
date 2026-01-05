@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l009_logging_and_tracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|solutionrelative:l009_logging_and_tracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1AD7FB8-B4D5-42C6-9C96-04D935471539}|L011_Sqlite\\L011_Sqlite.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l011_sqlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AD7FB8-B4D5-42C6-9C96-04D935471539}|L011_Sqlite\\L011_Sqlite.csproj|solutionrelative:l011_sqlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l009_logging_and_tracking\\model\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|solutionrelative:l009_logging_and_tracking\\model\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l009_logging_and_tracking\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|solutionrelative:l009_logging_and_tracking\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l009_logging_and_tracking\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|solutionrelative:l009_logging_and_tracking\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1AD7FB8-B4D5-42C6-9C96-04D935471539}|L011_Sqlite\\L011_Sqlite.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l011_sqlite\\sqlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AD7FB8-B4D5-42C6-9C96-04D935471539}|L011_Sqlite\\L011_Sqlite.csproj|solutionrelative:l011_sqlite\\sqlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,59 +29,29 @@
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Model\\Country.cs",
-              "RelativeDocumentMoniker": "L009_Logging_and_Tracking\\Model\\Country.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Model\\Country.cs",
-              "RelativeToolTip": "L009_Logging_and_Tracking\\Model\\Country.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L011_Sqlite\\Program.cs",
+              "RelativeDocumentMoniker": "L011_Sqlite\\Program.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L011_Sqlite\\Program.cs",
+              "RelativeToolTip": "L011_Sqlite\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T09:39:54.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "City.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Model\\City.cs",
-              "RelativeDocumentMoniker": "L009_Logging_and_Tracking\\Model\\City.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Model\\City.cs",
-              "RelativeToolTip": "L009_Logging_and_Tracking\\Model\\City.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T09:39:52.03Z",
+              "WhenOpened": "2026-01-05T13:13:14.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DemoContext.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Model\\DemoContext.cs",
-              "RelativeDocumentMoniker": "L009_Logging_and_Tracking\\Model\\DemoContext.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Model\\DemoContext.cs",
-              "RelativeToolTip": "L009_Logging_and_Tracking\\Model\\DemoContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Title": "SqliteContext.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L011_Sqlite\\SqliteContext.cs",
+              "RelativeDocumentMoniker": "L011_Sqlite\\SqliteContext.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L011_Sqlite\\SqliteContext.cs",
+              "RelativeToolTip": "L011_Sqlite\\SqliteContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T09:32:41.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Program.cs",
-              "RelativeDocumentMoniker": "L009_Logging_and_Tracking\\Program.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Program.cs",
-              "RelativeToolTip": "L009_Logging_and_Tracking\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T09:30:26.312Z",
+              "WhenOpened": "2026-01-05T13:14:50.615Z",
               "EditorCaption": ""
             }
           ]

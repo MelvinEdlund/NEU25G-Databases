@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\L002_SQL_Injection_demo"
+    "\\L002_SQL_Injection_demo",
+    "\\L008_DataGrid_and_TreeView"
   ],
-  "SelectedNode": "\\L002_SQL_Injection_demo",
+  "SelectedNode": "\\L008_DataGrid_and_TreeView\\MainWindow.xaml.cs",
   "PreviewInSolutionExplorer": false
 }
