@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L002_SQL_Injection_demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58ed1a4900461517001b44e839232400c6690af9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2443d9a4199eb4c76be58cd21f51cea86efcc865")]
 [assembly: System.Reflection.AssemblyProductAttribute("L002_SQL_Injection_demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L002_SQL_Injection_demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

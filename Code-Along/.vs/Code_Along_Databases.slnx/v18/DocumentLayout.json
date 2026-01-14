@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l009_logging_and_tracking\\model\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|solutionrelative:l009_logging_and_tracking\\model\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l009_logging_and_tracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|solutionrelative:l009_logging_and_tracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l009_logging_and_tracking\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|solutionrelative:l009_logging_and_tracking\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l009_logging_and_tracking\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5641C78B-49A8-47DD-931C-78777175798A}|L009_Logging_and_Tracking\\L009_Logging_and_Tracking.csproj|solutionrelative:l009_logging_and_tracking\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D0E649E-29BE-4CCF-B4B1-7FE4873E4891}|L013_BsonDocument\\L013_BsonDocument.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l013_bsondocument\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0E649E-29BE-4CCF-B4B1-7FE4873E4891}|L013_BsonDocument\\L013_BsonDocument.csproj|solutionrelative:l013_bsondocument\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "City.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Model\\City.cs",
-              "RelativeDocumentMoniker": "L009_Logging_and_Tracking\\Model\\City.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Model\\City.cs",
-              "RelativeToolTip": "L009_Logging_and_Tracking\\Model\\City.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T13:23:40.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Model\\Country.cs",
-              "RelativeDocumentMoniker": "L009_Logging_and_Tracking\\Model\\Country.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Model\\Country.cs",
-              "RelativeToolTip": "L009_Logging_and_Tracking\\Model\\Country.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T13:23:39.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Program.cs",
-              "RelativeDocumentMoniker": "L009_Logging_and_Tracking\\Program.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Program.cs",
-              "RelativeToolTip": "L009_Logging_and_Tracking\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T13:23:30.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DemoContext.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Model\\DemoContext.cs",
-              "RelativeDocumentMoniker": "L009_Logging_and_Tracking\\Model\\DemoContext.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L009_Logging_and_Tracking\\Model\\DemoContext.cs",
-              "RelativeToolTip": "L009_Logging_and_Tracking\\Model\\DemoContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAlAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L013_BsonDocument\\Program.cs",
+              "RelativeDocumentMoniker": "L013_BsonDocument\\Program.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L013_BsonDocument\\Program.cs",
+              "RelativeToolTip": "L013_BsonDocument\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T13:23:27.898Z",
+              "WhenOpened": "2026-01-14T12:13:28.488Z",
               "EditorCaption": ""
             }
           ]
