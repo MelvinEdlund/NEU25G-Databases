@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8ABFFE12-A9C6-469A-9898-067AB47C6FFD}|L014_RepositoryPattern\\L014_RepositoryPattern.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l014_repositorypattern\\repositories\\sql\\sqlmovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABFFE12-A9C6-469A-9898-067AB47C6FFD}|L014_RepositoryPattern\\L014_RepositoryPattern.csproj|solutionrelative:l014_repositorypattern\\repositories\\sql\\sqlmovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABFFE12-A9C6-469A-9898-067AB47C6FFD}|L014_RepositoryPattern\\L014_RepositoryPattern.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l014_repositorypattern\\repositories\\sql\\sqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABFFE12-A9C6-469A-9898-067AB47C6FFD}|L014_RepositoryPattern\\L014_RepositoryPattern.csproj|solutionrelative:l014_repositorypattern\\repositories\\sql\\sqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABFFE12-A9C6-469A-9898-067AB47C6FFD}|L014_RepositoryPattern\\L014_RepositoryPattern.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l014_repositorypattern\\repositories\\mongo\\mongomovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABFFE12-A9C6-469A-9898-067AB47C6FFD}|L014_RepositoryPattern\\L014_RepositoryPattern.csproj|solutionrelative:l014_repositorypattern\\repositories\\mongo\\mongomovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABFFE12-A9C6-469A-9898-067AB47C6FFD}|L014_RepositoryPattern\\L014_RepositoryPattern.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l014_repositorypattern\\repositories\\sql\\config\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABFFE12-A9C6-469A-9898-067AB47C6FFD}|L014_RepositoryPattern\\L014_RepositoryPattern.csproj|solutionrelative:l014_repositorypattern\\repositories\\sql\\config\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8ABFFE12-A9C6-469A-9898-067AB47C6FFD}|L014_RepositoryPattern\\L014_RepositoryPattern.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l014_repositorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ABFFE12-A9C6-469A-9898-067AB47C6FFD}|L014_RepositoryPattern\\L014_RepositoryPattern.csproj|solutionrelative:l014_repositorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ABFFE12-A9C6-469A-9898-067AB47C6FFD}|L014_RepositoryPattern\\L014_RepositoryPattern.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l014_repositorypattern\\repositories\\mongo\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ABFFE12-A9C6-469A-9898-067AB47C6FFD}|L014_RepositoryPattern\\L014_RepositoryPattern.csproj|solutionrelative:l014_repositorypattern\\repositories\\mongo\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ABFFE12-A9C6-469A-9898-067AB47C6FFD}|L014_RepositoryPattern\\L014_RepositoryPattern.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l014_repositorypattern\\repositories\\mongo\\mongomovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABFFE12-A9C6-469A-9898-067AB47C6FFD}|L014_RepositoryPattern\\L014_RepositoryPattern.csproj|solutionrelative:l014_repositorypattern\\repositories\\mongo\\mongomovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ABFFE12-A9C6-469A-9898-067AB47C6FFD}|L014_RepositoryPattern\\L014_RepositoryPattern.csproj|c:\\users\\medlu\\source\\repos\\neu25g-databases\\code-along\\l014_repositorypattern\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,20 +58,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Program.cs",
               "RelativeDocumentMoniker": "L014_RepositoryPattern\\Program.cs",
               "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Program.cs",
               "RelativeToolTip": "L014_RepositoryPattern\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T08:23:41.002Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Repositories\\Sql\\SqlMovieRepository.cs",
+              "RelativeDocumentMoniker": "L014_RepositoryPattern\\Repositories\\Sql\\SqlMovieRepository.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Repositories\\Sql\\SqlMovieRepository.cs",
+              "RelativeToolTip": "L014_RepositoryPattern\\Repositories\\Sql\\SqlMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:46:21.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlRepository.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Repositories\\Sql\\SqlRepository.cs",
+              "RelativeDocumentMoniker": "L014_RepositoryPattern\\Repositories\\Sql\\SqlRepository.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Repositories\\Sql\\SqlRepository.cs",
+              "RelativeToolTip": "L014_RepositoryPattern\\Repositories\\Sql\\SqlRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:37:16.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MongoMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Repositories\\Mongo\\MongoMovieRepository.cs",
+              "RelativeDocumentMoniker": "L014_RepositoryPattern\\Repositories\\Mongo\\MongoMovieRepository.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Repositories\\Mongo\\MongoMovieRepository.cs",
+              "RelativeToolTip": "L014_RepositoryPattern\\Repositories\\Mongo\\MongoMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:38:58.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Repositories\\Sql\\Config\\MovieDbContext.cs",
+              "RelativeDocumentMoniker": "L014_RepositoryPattern\\Repositories\\Sql\\Config\\MovieDbContext.cs",
+              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Repositories\\Sql\\Config\\MovieDbContext.cs",
+              "RelativeToolTip": "L014_RepositoryPattern\\Repositories\\Sql\\Config\\MovieDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:36:56.565Z",
               "EditorCaption": ""
             },
             {
@@ -72,20 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MongoMovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Repositories\\Mongo\\MongoMovieRepository.cs",
-              "RelativeDocumentMoniker": "L014_RepositoryPattern\\Repositories\\Mongo\\MongoMovieRepository.cs",
-              "ToolTip": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Repositories\\Mongo\\MongoMovieRepository.cs",
-              "RelativeToolTip": "L014_RepositoryPattern\\Repositories\\Mongo\\MongoMovieRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T10:38:58.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IMovieRepository.cs",
               "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Repositories\\Interfaces\\IMovieRepository.cs",
               "RelativeDocumentMoniker": "L014_RepositoryPattern\\Repositories\\Interfaces\\IMovieRepository.cs",
@@ -98,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MongoRepository.cs",
               "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Repositories\\Mongo\\MongoRepository.cs",
               "RelativeDocumentMoniker": "L014_RepositoryPattern\\Repositories\\Mongo\\MongoRepository.cs",
@@ -111,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "IHasId.cs",
               "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Domain\\IHasId.cs",
               "RelativeDocumentMoniker": "L014_RepositoryPattern\\Domain\\IHasId.cs",
@@ -124,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "L014_RepositoryPattern\\Repositories\\Interfaces\\IRepository.cs",
@@ -137,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "MongoMappings.cs",
               "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Repositories\\Mongo\\Mapping\\MongoMappings.cs",
               "RelativeDocumentMoniker": "L014_RepositoryPattern\\Repositories\\Mongo\\Mapping\\MongoMappings.cs",
@@ -150,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ImdbInfo.cs",
               "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Domain\\ImdbInfo.cs",
               "RelativeDocumentMoniker": "L014_RepositoryPattern\\Domain\\ImdbInfo.cs",
@@ -163,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\medlu\\source\\repos\\NEU25G-Databases\\Code-Along\\L014_RepositoryPattern\\Domain\\Movie.cs",
               "RelativeDocumentMoniker": "L014_RepositoryPattern\\Domain\\Movie.cs",

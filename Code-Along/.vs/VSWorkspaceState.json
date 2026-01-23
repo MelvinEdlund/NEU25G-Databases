@@ -3,8 +3,11 @@
     "",
     "\\L002_SQL_Injection_demo",
     "\\L008_DataGrid_and_TreeView",
-    "\\L013_BsonDocument"
+    "\\L013_BsonDocument",
+    "\\L014_RepositoryPattern",
+    "\\L014_RepositoryPattern\\Repositories",
+    "\\L014_RepositoryPattern\\Repositories\\Sql"
   ],
-  "SelectedNode": "\\L013_BsonDocument\\Program.cs",
+  "SelectedNode": "\\L014_RepositoryPattern\\Repositories\\Sql\\SqlMovieRepository.cs",
   "PreviewInSolutionExplorer": false
 }
